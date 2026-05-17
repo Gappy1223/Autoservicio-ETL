@@ -70,3 +70,12 @@ python pipeline_completo.py
 
 # Ejecución analítica pura omitiendo la ingesta de archivos físicos
 python pipeline_completo.py --skip-xml --fecha-desde 2026-01-01 --fecha-hasta 2026-03-31
+```
+## 5. Stack 
+
+## Lenguaje de Programación: Python 3.11
+## Procesamiento de Datos & Analytics: Pandas, NumPy
+## Modelado Predictivo / ML: Prophet (Meta)
+## Capa de Datos: PostgreSQL (Compatible con Cloud Provider Supabase)
+## ORM e Integración de BD: SQLAlchemy
+## Configuración y Seguridad: Python-dotenv (Aislamiento de variables de entorno críticas en .env)
